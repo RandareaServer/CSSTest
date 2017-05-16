@@ -1,0 +1,30 @@
+body {
+	 background-image: url("https://i.stack.imgur.com/NEuip.jpg");
+}
+
+
+header {
+	
+	color: white;
+}
+
+#cover {
+  height: 700px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+  background: url("http://www.webdesignhot.com/wp-content/uploads/2011/03/Spiral-Rainbow-Vector-Background.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navigation {
+  color: black;
+  background-image: url("https://c2.staticflickr.com/4/3134/4562937520_20c298c9a8_o.png");
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
